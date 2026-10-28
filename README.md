@@ -1,8 +1,16 @@
-# CI/CD Final Project: eCommerce Product Catalog Service
+
+# eCommerce Product Catalog Service
+
+**Project Name:** eCommerce Product Catalog Service
+
+**Project Type:** CI/CD Final Project
+
+**Description:** A RESTful eCommerce product catalog microservice built with Python, Flask, and PostgreSQL, using GitHub Actions for Continuous Integration and Tekton with Red Hat OpenShift for Continuous Delivery.
 
 [![CI Workflow](https://github.com/1241007/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/1241007/ci-cd-final-project/actions/workflows/workflow.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
 
 ## Project Overview
 
@@ -97,3 +105,5 @@ flake8 service tests --count --max-complexity=10 --max-line-length=127 --statist
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
+
+
